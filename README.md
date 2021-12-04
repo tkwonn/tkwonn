@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[Recursion](https://recursionist.io/)
 <!--
 **tkwonn/tkwonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Taesok Kwon. I was born and raised in Tokyo, Japan, though both of my parents are Korean. I'm currently pursuing my Associate Degree at Lane Community College and will transfer to Oregon State University next spring.  
   
-I'm currently learning Computer Science at college and also at a platform called Recursion
+I'm currently learning Computer Science at college and also at a platform called [Recursion](https://recursionist.io/).
 I played rugby for 4 years at a university in Japan which had won 9 consecutive university rugby championships.  
 I speak three languages, Japanese, Korean, and English.
 
