@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Taesok Kwon. I was born and raised in Tokyo, Japan, though both of my parents are Korean. I'm currently pursuing my Associate Degree at Lane Community College and will transfer to Oregon State University next spring. 
+My name is Taesok Kwon. I was born and raised in Tokyo, Japan, though both of my parents are Korean. I'm currently pursuing my Associate Degree at Lane Community College and will transfer to Oregon State University next spring.  
+I played rugby for 4 years at a university in Japan which had won 9 consecutive university rugby championships.  
+I speak three languages, Japanese, Korean, and English.
 
 Pronouns: He/Him/His
 
@@ -24,7 +26,4 @@ Pronouns: He/Him/His
 
 kwontaesok1997@gmail.com
 
-### ⚡ Fun facts:
 
-I played rugby for 4 years at a university in Japan which had won 9 consecutive university rugby championships.  
-I speak three languages, Japanese, Korean, and English.
