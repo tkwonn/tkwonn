@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Taesok Kwon. I was born and raised in Tokyo, Japan, though both of my parents are Korean. I'm currently pursuing my Associate Degree at Lane Community College and will transfer to Oregon State University next spring.  
+My name is Taesok Kwon. I was born and raised in Tokyo, Japan, though both of my parents are Korean. I'm currently pursuing my Bachelor's Degree at Oregon State University.
   
 
 Pronouns: He/Him/His
