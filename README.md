@@ -25,7 +25,3 @@ Pronouns: He/Him/His
 
 kwontaesok1997@gmail.com
 
-### ⚡ Fun facts:
-  
-I played rugby for 4 years at a university in Japan which had won 9 consecutive university rugby championships.  
-I speak three languages, Japanese, Korean, and English.
