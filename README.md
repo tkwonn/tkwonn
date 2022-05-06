@@ -15,13 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Taesok Kwon. I was born and raised in Tokyo, Japan, though both of my parents are Korean. I'm currently pursuing my Bachelor's Degree at Oregon State University.
-  
-
-Pronouns: He/Him/His
-
-
-### 📫 How to reach me:
-
-kwontaesok1997@gmail.com
 
