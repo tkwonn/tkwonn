@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![tkwonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkwonn?show-icons=true)](https://github.com/tkwonn/github-readme-stats)
+[![tkwonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkwonn&show-icons=true)](https://github.com/tkwonn/github-readme-stats)
