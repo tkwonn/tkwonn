@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 </div> -->
 
 
-[![tkwonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkwonn&show-icons=true&theme=tokyonight)](https://github.com/tkwonn/github-readme-stats)
+[![tkwonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkwonn&show-icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkwonn&layout=compact&theme=tokyonight)](https://github.com/tkwonn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkwonn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=tkwonn&style=flat-square&color=blue" alt=""/>
 
