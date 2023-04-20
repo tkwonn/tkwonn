@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkwonn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=tkwonn&style=flat-square&color=blue" alt=""/>
 
 
 <!-- https://www.sitepoint.com/github-profile-readme/ -->
