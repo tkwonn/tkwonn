@@ -1,6 +1,6 @@
 ## Portfolio
 
-[Portfolio Website](https://www.taesokkwon.com)
+[Portfolio Website](https://taesokkwon.com)
 
 
 
