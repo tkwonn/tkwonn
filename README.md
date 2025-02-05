@@ -1,14 +1,6 @@
-<div align="right">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-Taesok_Kwon-blue?style=flat-square&logo=linkedin-white&logoColor=white&link=https://www.linkedin.com/in/taesok-kwon/)](www.linkedin.com/in/taesok-kwon)
-  [![Gmail Badge](https://img.shields.io/badge/-kwontaesok1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwontaesok1997@gmail.com)](mailto:kwontaesok1997@gmail.com)
-</div>
-
-<hr>
-
 ## Hi there! 👋
 
-Check out my [portfolio website](https://taesokkwon.com/) to see my past projects and technical skills in detail!
+Check out my <a href="https://taesokkwon.com/" target="_blank">portfolio website</a> to see my past projects and technical skills in detail!
 
 <hr>
 
