@@ -9,7 +9,7 @@ Check out my <a href="https://taesokkwon.com/" target="_blank">portfolio website
 #### Fullstack Projects
 - <a href="https://github.com/tkwonn/imgdock" target="_blank">Imgdock</a>: Online Image Hosting Service.
 - <a href="https://github.com/tkwonn/text-snippet" target="_blank">Text Snippet</a>: Text Snippet Sharing Service.
-- <a href="https://github.com/tkwonn/plantuml" target="_blank">PlantUML Server</a>: Web tool for practicing and learning UML diagram creation.
+- <a href="https://github.com/tkwonn/plantuml" target="_blank">PlantUML Server</a>: Web tool for practicing UML diagram creation.
 - <a href="https://github.com/tkwonn/video-compressor" target="_blank">Video Compressor</a>: Desktop application that allows users compress and convert videos.
 - <a href="https://github.com/Recursion-Group-K/sketch" target="_blank">Etch A Sketch</a>: Drawing app inspired by the classic Etch A Sketch toy.
 
