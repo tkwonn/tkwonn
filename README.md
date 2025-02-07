@@ -4,6 +4,25 @@ Check out my <a href="https://taesokkwon.com/" target="_blank">portfolio website
 
 <hr>
 
+### Projects
+
+#### Fullstack Projects
+- <a href="https://github.com/tkwonn/imgdock" target="_blank">Imgdock</a>: Online Image Hosting Service.
+- <a href="https://github.com/tkwonn/text-snippet" target="_blank">Text Snippet</a>: Text Snippet Sharing Service.
+- <a href="https://github.com/tkwonn/plantuml" target="_blank">PlantUML Server</a>: Web tool for practicing and learning UML diagram creation.
+- <a href="https://github.com/tkwonn/video-compressor" target="_blank">Video Compressor</a>: Desktop application that allows users compress and convert videos.
+- <a href="https://github.com/Recursion-Group-K/sketch" target="_blank">Etch A Sketch</a>: Drawing app inspired by the classic Etch A Sketch toy.
+
+#### CLI Projects
+- <a href="https://github.com/tkwonn/smallsh" target="_blank">Small Shell</a>: A lightweight shell implementation in C that implements a subset of features of bash.
+- <a href="https://github.com/tkwonn/tree" target="_blank">Tree</a>: A command-line tool similar to the GNU tree utility, displaying directory structures in a tree-like format.
+- <a href="https://github.com/tkwonn/traceroute" target="_blank">Traceroute</a>: Network diagnostic tool written in Python using raw sockets, ICMP request, and reply messages.
+- <a href="https://github.com/tkwonn/ping" target="_blank">Ping</a>: Network diagnostic tool written in Python using raw sockets, ICMP request, and reply messages.
+- <a href="https://github.com/tkwonn/remote-procedure-call" target="_blank">Remote Procedure Call</a>: A local RPC system that enables processes to call procedures on other process through Unix domain sockets.
+- <a href="https://github.com/tkwonn/base64" target="_blank">Base64</a>: Simple command-line base64 encoder/decoder written in C.
+
+<hr>
+
 #### Languages
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
