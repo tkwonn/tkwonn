@@ -18,7 +18,7 @@ Check out my <a href="https://taesokkwon.com/" target="_blank">portfolio website
 - <a href="https://github.com/tkwonn/tree" target="_blank">Tree</a>: A command-line tool similar to the GNU tree utility, displaying directory structures in a tree-like format
 - <a href="https://github.com/tkwonn/traceroute" target="_blank">Traceroute</a>: Network diagnostic tool written in Python using raw sockets, ICMP request, and reply messages
 - <a href="https://github.com/tkwonn/ping" target="_blank">Ping</a>: Network diagnostic tool written in Python using raw sockets, ICMP request, and reply messages
-- <a href="https://github.com/tkwonn/remote-procedure-call" target="_blank">Remote Procedure Call</a>: A local RPC system that enables processes to call procedures on other process through Unix domain sockets
+- <a href="https://github.com/tkwonn/remote-procedure-call" target="_blank">Remote Procedure Call</a>: RPC system that enables processes to call procedures on other process through Unix domain sockets
 - <a href="https://github.com/tkwonn/base64" target="_blank">Base64</a>: Simple command-line base64 encoder/decoder written in C
 
 <hr>
