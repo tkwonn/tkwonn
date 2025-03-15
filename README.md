@@ -93,8 +93,6 @@ Check out my <a href="https://taesokkwon.com/" target="_blank">portfolio website
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
-<hr>
-
-### 📊 GitHub Stats
-
-[![](https://raw.githubusercontent.com/tkwonn/tkwonn/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
